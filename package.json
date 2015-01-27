@@ -1,0 +1,35 @@
+{
+  "name": "swagger2-restify",
+  "version": "1.0.1",
+  "description": "Swagger 2.0 support for restify",
+  "main": "lib/swagger2-restify.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jflitton/swagger2-restify.git"
+  },
+  "keywords": [
+    "swagger 2.0",
+    "restify",
+    "swagger",
+    "2.0"
+  ],
+  "author": "Jeff Flitton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jflitton/swagger2-restify/issues"
+  },
+  "homepage": "https://github.com/jflitton/swagger2-restify",
+  "dependencies": {
+    "swagger2-utils": "^1.0.2"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-coffee": "^2.2.0",
+    "gulp-coffeelint": "^0.4.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-istanbul": "^0.5.0",
+    "del": "^1.1.1",
+    "mocha": "^2.1.0"
+  }
+}
