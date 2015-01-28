@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/jflitton/swagger2-restify",
   "dependencies": {
-    "swagger2-utils": "^1.0.2"
+    "swagger2-utils": "^1.0.2",
+    "extend": "^2.0.0",
+    "clone": "^0.2.0"
   },
   "devDependencies": {
     "coffee-script": "^1.8.0",
