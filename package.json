@@ -1,6 +1,6 @@
 {
   "name": "swagger2-restify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Swagger 2.0 support for restify",
   "main": "lib/swagger2-restify.js",
   "repository": {
@@ -25,13 +25,13 @@
     "clone": "^0.2.0"
   },
   "devDependencies": {
-    "coffee-script": "^1.8.0",
+    "coffeescript": "^1.2.8",
+    "del": "^1.1.1",
     "gulp": "^3.8.10",
     "gulp-coffee": "^2.2.0",
     "gulp-coffeelint": "^0.4.0",
-    "gulp-mocha": "^2.0.0",
     "gulp-istanbul": "^0.5.0",
-    "del": "^1.1.1",
+    "gulp-mocha": "^2.0.0",
     "mocha": "^2.1.0"
   }
 }
